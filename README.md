@@ -25,3 +25,12 @@ Then run the train.py file as follows:
 ```bash
 python train.py
 ```
+
+## Citation
+If you find our paper or code is helpful for your work, please cite our NAACL 2021 paper, our paper is available at: 
+
+
+## Acknowledgements
+Our code is based on [HiAGM](https://github.com/Alibaba-NLP/HiAGM), we thank the authors of HiAGM for their open-source code.
+
+
