@@ -27,7 +27,7 @@ python train.py
 ```
 
 ## Citation
-If you find our paper or code is helpful for your work, please cite our NAACL 2021 paper, our paper is available at: 
+If you find our paper or code is helpful for your work, please consider citing our NAACL 2021 paper, our paper is available at: 
 
 
 ## Acknowledgements
