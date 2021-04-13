@@ -28,7 +28,16 @@ python train.py
 
 ## Citation
 If you find our paper or code is helpful for your work, please consider citing our NAACL 2021 paper, our paper is available at: http://arxiv.org/abs/2104.05220
-
+```bibtex
+@misc{deng2021htcinfomax,
+      title={HTCInfoMax: A Global Model for Hierarchical Text Classification via Information Maximization}, 
+      author={Zhongfen Deng and Hao Peng and Dongxiao He and Jianxin Li and Philip S. Yu},
+      year={2021},
+      eprint={2104.05220},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+```
 
 
 ## Acknowledgements
