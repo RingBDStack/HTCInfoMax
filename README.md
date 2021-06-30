@@ -27,16 +27,25 @@ python train.py
 ```
 
 ## Citation
-If you find our paper or code is helpful for your work, please consider citing our NAACL 2021 paper, our paper is available at: http://arxiv.org/abs/2104.05220
+If you find our paper or code is helpful for your work, please consider citing our NAACL 2021 paper, our paper is available at: https://www.aclweb.org/anthology/2021.naacl-main.260/
 ```bibtex
-@misc{deng2021htcinfomax,
-      title={HTCInfoMax: A Global Model for Hierarchical Text Classification via Information Maximization}, 
-      author={Zhongfen Deng and Hao Peng and Dongxiao He and Jianxin Li and Philip S. Yu},
-      year={2021},
-      eprint={2104.05220},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL}
+@inproceedings{deng-etal-2021-htcinfomax,
+    title = "{HTCI}nfo{M}ax: A Global Model for Hierarchical Text Classification via Information Maximization",
+    author = "Deng, Zhongfen  and
+      Peng, Hao  and
+      He, Dongxiao  and
+      Li, Jianxin  and
+      Yu, Philip",
+    booktitle = "Proceedings of the 2021 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies",
+    month = jun,
+    year = "2021",
+    address = "Online",
+    publisher = "Association for Computational Linguistics",
+    url = "https://www.aclweb.org/anthology/2021.naacl-main.260",
+    doi = "10.18653/v1/2021.naacl-main.260",
+    pages = "3259--3265",
 }
+
 ```
 
 
