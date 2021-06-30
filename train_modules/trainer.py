@@ -51,7 +51,7 @@ class Trainer(object):
         for batch in tqdm.tqdm(data_loader):
             text_label_mi_disc_loss, label_prior_loss, logits, loss_weight = self.model(batch)
             if self.config.train.loss.recursive_regularization.flag:
-                recursive_constrained_params = self.model.hiagm.linear.weight
+                recursive_constrained_params = self.model.htcinfomax.linear.weight
             else:
                 recursive_constrained_params = None
             loss_predictor = self.criterion(logits,
