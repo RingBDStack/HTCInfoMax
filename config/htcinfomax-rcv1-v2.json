@@ -53,6 +53,7 @@
     }
   },
   "model": {
+    "type": "HTCInfoMax",
     "linear_transformation": {
       "text_dimension": 300,
       "node_dimension": 300,
